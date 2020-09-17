@@ -3,7 +3,7 @@
  * @version:
  * @Author: CoolSnow
  * @Date: 2020-04-23 10:11:12
- * @LastEditTime: 2020-09-17 15:36:42
+ * @LastEditTime: 2020-09-17 16:07:19
  */
 const path = require('path')
 
@@ -59,7 +59,7 @@ module.exports = {
         },
         nsis: {
           perMachine: true,
-          allowToChangeInstallationDirectory: false,
+          allowToChangeInstallationDirectory: true,
           allowElevation: true,
           oneClick: false
         }
