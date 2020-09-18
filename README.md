@@ -1,10 +1,11 @@
 <!--
- * @Descripttion: 
- * @version: 
- * @Author: CoolSnow
- * @Date: 2020-04-23 10:11:12
- * @LastEditTime: 2020-09-17 16:06:42
- -->
+ * @Description: 
+ * @Author: CoolSnow (coolsnow2020@gmail.com)
+ * @Date: 2020-09-17 14:42:18
+ * @LastEditors: CoolSnow
+ * @LastEditTime: 2020-09-17 18:08:54
+-->
+
 ## electron_vue_easy
 ```
 electron、electron-builder & vue、routers、axios...
